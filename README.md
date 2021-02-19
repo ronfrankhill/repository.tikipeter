@@ -1,3 +1,5 @@
+Sorry to bother you. Thank you very much to maintaining and improving Fen. I am enjoying it a lot. I don't know if you would be able to benefit from this information that l discovered. Here's the GitHub link https://github.com/itsToggle/trakt-scraper to investigate. Thank you again.
+
 # Rules for Posting Issues...
 
 * **ALL** Issues opened **MUST** include a log. **THIS INCLUDES EVEN WHEN A LOG ISN'T NEEDED i.e. A REQUEST FOR A NEW FEATURE. NEW ISSUES WITHOUT A LOG ATTACHED WILL BE DELETED, NO EXCEPTIONS.**
